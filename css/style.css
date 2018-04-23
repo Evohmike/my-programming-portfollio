@@ -6,3 +6,24 @@
   width: 1000px;
   overflow-x: hidden;
 }
+.block1 {
+    width: 30%;
+    float: left;
+    border: 2px solid lime;
+
+  }
+  .block2 {
+    width: 30%;
+    float: left;
+    border: 2px solid red;
+    margin-left:4%;
+
+  }
+  .block3 {
+    width: 30%;
+    float: right;
+    border: 2px solid blue;
+
+
+
+}
